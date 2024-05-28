@@ -1,0 +1,44 @@
+body {background-color: blue;}
+
+.p1 {font-size:200%;
+background-color: blueviolet; 
+border-color:black;
+border-width:6px ;
+border-style: solid;
+margin-left: 20%;
+margin-right: 20%;
+text-align: center;
+padding-top: 3%;
+}
+
+.p2 {font-size:200%;
+    background-color: khaki; 
+    border-color:black;
+    border-width:6px ;
+    border-style: solid;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    padding-top: 3%;
+    padding-left: 5%
+    }
+.p3 {font-size:200%;
+    background-color: rgb(235, 212, 12); 
+    border-color:black;
+    border-width:6px ;
+    border-style: solid;
+    margin-right: 20%;
+    text-align: left;
+    padding-right: 30%;
+    padding-left: 20%
+    }
+
+    .p4 {font-size:200%;
+        background-color: rgb(235, 12, 198); 
+        border-color:black;
+        border-width:6px ;
+        border-style: solid;
+        margin-left: 20%;
+        text-align: center;
+        padding-left: 10%;
+        }
