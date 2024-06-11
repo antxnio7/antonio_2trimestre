@@ -1,3 +1,5 @@
+@media screen and (max-width: 500px) {
+
 body {background-color: blue;}
 
 .p1 {font-size:200%;
@@ -42,3 +44,8 @@ padding-top: 3%;
         text-align: center;
         padding-left: 10%;
         }
+
+
+
+
+
